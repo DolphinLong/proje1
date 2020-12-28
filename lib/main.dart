@@ -24,7 +24,7 @@ class MyApphome extends StatefulWidget {
 
 class _MyhomeState extends State<MyApphome> {
   String lorem =
-      "                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam suscipit posuere facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum vitae elit dictum, ultrices felis vel, malesuada lectus. Integer ac ornare velit. Fusce euismod nisl id mi egestas, in laoreet risus commodo. Pellentesque luctus risus vel nibh auctor, ac congue nunc faucibus. Aenean aliquet justo vel risus cursus luctus. Phasellus vel leo viverra, aliquet odio in, rutrum mauris. Proin nisi orci, iaculis et enim et, elementum pretium mi. "
+      "                                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam suscipit posuere facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum vitae elit dictum, ultrices felis vel, malesuada lectus. Integer ac ornare velit. Fusce euismod nisl id mi egestas, in laoreet risus commodo. Pellentesque luctus risus vel nibh auctor, ac congue nunc faucibus. Aenean aliquet justo vel risus cursus luctus. Phasellus vel leo viverra, aliquet odio in, rutrum mauris. Proin nisi orci, iaculis et enim et, elementum pretium mi. "
           .toLowerCase()
           .replaceAll(',', ' ')
           .replaceAll('.', ' ');
