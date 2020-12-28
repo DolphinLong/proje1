@@ -1,0 +1,4 @@
+#Sat Dec 26 16:22:51 TRT 2020
+base.0=/Users/ilebron/Development/Flutter denemeleri/1/proje1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
